@@ -19,7 +19,7 @@ A curated list of awesome Ansible ressources
   - [VPN Deploy](https://github.com/ftao/vpn-deploy-playbook)
 - Tools
   - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
-  - [Phansible](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
+  - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
   - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
 - Ressources
   - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
