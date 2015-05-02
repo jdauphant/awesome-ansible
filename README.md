@@ -11,7 +11,7 @@ A curated list of awesome Ansible ressources
 - Playbooks
   - [Ansible examples](https://github.com/ansible/ansible-examples)
   - [Ansible Desktop](https://github.com/kalos/ansible-desktop)
-  - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks)
+  - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks) - Playbook example for FreeBSD
   - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana
   - [Heartbleed OpenSSL Patch](https://github.com/jdauphant/patch-openssl-CVE-2014-0160) - A simple playbook that update OpenSSL for Debian system
   - [OpenStack](https://github.com/openstack-ansible/openstack-ansible)
