@@ -3,7 +3,6 @@ A curated list of awesome Ansible ressources
 
 
 - Roles
-  - DNS : [Github](https://github.com/jdauphant/ansible-role-dns) / [Galaxy](https://galaxy.ansible.com/list#/roles/2556)
   - Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
   - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy] (https://galaxy.ansible.com/list#/roles/509)
   - Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy] (https://galaxy.ansible.com/list#/roles/466)
