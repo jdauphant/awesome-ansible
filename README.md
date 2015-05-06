@@ -27,3 +27,6 @@ A curated list of awesome Ansible ressources
 - Ressources
   - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
   - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
+  - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
+  - [Packer Provisionning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
+  - [Vagrant Provisionning With Ansible](https://docs.vagrantup.com/v2/provisioning/ansible.html)
