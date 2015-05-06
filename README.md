@@ -24,7 +24,7 @@ A curated list of awesome Ansible resources
   - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
   - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
   - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
-- Ressources
+- Resources
   - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
   - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
   - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
