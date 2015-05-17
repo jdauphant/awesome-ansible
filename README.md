@@ -4,6 +4,7 @@ A curated list of awesome Ansible resources
 - Books
   - [Ansible - Up and Running](http://shop.oreilly.com/product/0636920035626.do)
   - [Ansible Configuration Management - Second Edition](https://www.packtpub.com/networking-and-servers/ansible-configuration-management-second-edition)
+  - [Ansible for DevOps](https://leanpub.com/ansible-for-devops)
   - [Learning Ansible](https://www.packtpub.com/networking-and-servers/learning-ansible)
 - Roles
   - Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
