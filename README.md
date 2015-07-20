@@ -21,6 +21,9 @@ A curated list of awesome Ansible resources
   - [Rails](https://github.com/j-mcnally/ansible-rails)
   - [Sovereign](https://github.com/al3x/sovereign) - Your own personal cloud
   - [VPN Deploy](https://github.com/ftao/vpn-deploy-playbook)
+- Docker
+  - [Ansible Ubuntu 14.04 Docker Image](https://registry.hub.docker.com/u/ansible/ubuntu14.04-ansible/)
+  - [Ansible Centos 7 Docker Image](https://registry.hub.docker.com/u/ansible/centos7-ansible/)
 - Tools
   - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
   - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
