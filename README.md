@@ -25,6 +25,7 @@ A curated list of awesome Ansible resources
   - [Ansible Ubuntu 14.04 Docker Image](https://registry.hub.docker.com/u/ansible/ubuntu14.04-ansible/)
   - [Ansible Centos 7 Docker Image](https://registry.hub.docker.com/u/ansible/centos7-ansible/)
 - Tools
+  - [Ansible-lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
   - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
   - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
   - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
