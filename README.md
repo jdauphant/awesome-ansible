@@ -12,8 +12,9 @@ A curated list of awesome Ansible resources
   - Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy] (https://galaxy.ansible.com/list#/roles/466)
   - PostgreSQL : [Github](https://github.com/ANXS/postgresql) / [Galaxy](https://galaxy.ansible.com/list#/roles/512)
 - Playbooks
-  - [Ansible examples](https://github.com/ansible/ansible-examples)
+  - [Ansible Examples](https://github.com/ansible/ansible-examples)
   - [Ansible Desktop](https://github.com/kalos/ansible-desktop)
+  - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
   - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks) - Playbook example for FreeBSD
   - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana
   - [Heartbleed OpenSSL Patch](https://github.com/jdauphant/patch-openssl-CVE-2014-0160) - A simple playbook that update OpenSSL for Debian system
