@@ -12,6 +12,7 @@ A curated list of awesome Ansible resources
   - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy] (https://galaxy.ansible.com/list#/roles/509)
   - Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy] (https://galaxy.ansible.com/list#/roles/466)
   - PostgreSQL : [Github](https://github.com/ANXS/postgresql) / [Galaxy](https://galaxy.ansible.com/list#/roles/512)
+  - Redis : [Github](https://github.com/DavidWittman/ansible-redis) / [Galaxy](https://galaxy.ansible.com/detail#/role/730)
 - Playbooks
   - [Ansible Examples](https://github.com/ansible/ansible-examples) - This tutorial presents ansible step-by-step
   - [Ansible Desktop](https://github.com/kalos/ansible-desktop)
