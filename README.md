@@ -34,8 +34,9 @@ A curated list of awesome Ansible resources
   - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
 - Resources
   - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
-  - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
   - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
+  - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
+  - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
   - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
   - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
   - [Vagrant Provisioning With Ansible](https://docs.vagrantup.com/v2/provisioning/ansible.html)
