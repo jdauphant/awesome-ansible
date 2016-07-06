@@ -39,6 +39,7 @@ A curated list of awesome Ansible resources
   - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
   - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
   - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
+  - [Ansible (Real Life) Good Practices](https://www.reinteractive.net/posts/167-ansible-real-life-good-practices)
   - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
   - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
   - [Vagrant Provisioning With Ansible](https://docs.vagrantup.com/v2/provisioning/ansible.html)
