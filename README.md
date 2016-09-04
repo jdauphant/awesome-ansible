@@ -1,5 +1,5 @@
 # awesome-ansible
-A curated list of awesome Ansible resources
+A collaborative curated list of awesome Ansible resources
 
 - Books
   - [Ansible - Up and Running](http://shop.oreilly.com/product/0636920035626.do)
