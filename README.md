@@ -5,8 +5,8 @@ A collaborative curated list of awesome Ansible resources
   - [Ansible - Up and Running](http://shop.oreilly.com/product/0636920035626.do)
   - [Ansible Configuration Management - Second Edition](https://www.packtpub.com/networking-and-servers/ansible-configuration-management-second-edition)
   - [Ansible for DevOps](https://leanpub.com/ansible-for-devops)
-  - [Learning Ansible](https://www.packtpub.com/networking-and-servers/learning-ansible)
   - [Ansible Playbook Essentials](https://www.packtpub.com/networking-and-servers/ansible-playbook-essentials)
+  - [Learning Ansible](https://www.packtpub.com/networking-and-servers/learning-ansible)
 - Roles
   - Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
   - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy] (https://galaxy.ansible.com/list#/roles/509)
@@ -21,12 +21,38 @@ A collaborative curated list of awesome Ansible resources
   - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana
   - [Heartbleed OpenSSL Patch](https://github.com/jdauphant/patch-openssl-CVE-2014-0160) - A simple playbook that update OpenSSL for Debian system
   - [OpenStack](https://github.com/openstack-ansible/openstack-ansible)
+  - [Pedantically Commented Playbook](https://github.com/bbbbbrie/awesome-ansible.git) - Insanely complete Ansible playbook, showing off all the options
   - [Rails](https://github.com/j-mcnally/ansible-rails)
   - [Sovereign](https://github.com/al3x/sovereign) - Your own personal cloud
   - [VPN Deploy](https://github.com/ftao/vpn-deploy-playbook)
 - Docker
-  - [Ansible Ubuntu 14.04 Docker Image](https://registry.hub.docker.com/u/ansible/ubuntu14.04-ansible/)
   - [Ansible Centos 7 Docker Image](https://registry.hub.docker.com/u/ansible/centos7-ansible/)
+  - [Ansible Ubuntu 14.04 Docker Image](https://registry.hub.docker.com/u/ansible/ubuntu14.04-ansible/) 
+- Hardening with Ansible
+  - [Ansible Apache Hardening](https://github.com/dev-sec/ansible-apache-hardening)
+  - [Ansible Lockdown](https://github.com/ansible/ansible-lockdown) - Ansible playbook roles for security
+  - [Ansible MySQL Hardening](https://github.com/dev-sec/ansible-mysql-hardening)
+  - [Ansible Nginx Hardening](https://github.com/dev-sec/ansible-nginx-hardening)
+  - [Ansible role for the DISA STIG](https://www.ansible.com/security-stig)
+  - [Ansible SSH Hardening](https://github.com/dev-sec/ansible-ssh-hardening)
+  - [CIS Benchmarks](https://github.com/major/cis-rhel-ansible) - Ansible playbooks for CIS Benchmarks on RHEL/CentOS 
+- Resources
+  - [Ansible: config management & deploying code](http://podcast.sysca.st/podcast/5-ansible-config-management-deploying-code-james-cammarata-red-hat/) - Syscast Podcast episode discussing Ansible with James Cammarata from Red Hat
+  - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
+  - [Ansible My First 5 Minutes On A Server](https://github.com/joraman/Ansible-My-First-5-Minutes-On-A-Server)
+  - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
+  - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
+  - [Ansible (Real Life) Good Practices](https://www.reinteractive.net/posts/167-ansible-real-life-good-practices)
+  - [List of Awesome Ansible Roles](https://github.com/fansible/awesome-ansible-role)
+  - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
+  - [Notification Modules](http://docs.ansible.com/ansible/list_of_notification_modules.html) - From campfire to slack to telegram, Ansible-supported notification modules
+  - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
+  - [Vagrant Provisioning With Ansible](https://docs.vagrantup.com/v2/provisioning/ansible.html)
+- Social
+  - [ansible-announce](https://groups.google.com/forum/#!forum/ansible-announce) - The ansible-announce Google Group
+  - [ansible-devel](https://groups.google.com/forum/#!forum/ansible-devel) - The ansible-devel Google Group
+  - [ansible-project](https://groups.google.com/forum/#!forum/ansible-project) - The ansible-project (general) Google Group
+  - [/r/ansible](https://www.reddit.com/r/ansible) - Ansible subreddit
 - Tools
   - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
   - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
@@ -34,12 +60,9 @@ A collaborative curated list of awesome Ansible resources
   - [Ansible Vim](https://github.com/pearofducks/ansible-vim) - Vim syntax plugin for Ansible 2.0
   - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
   - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
-- Resources
-  - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
-  - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
-  - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
-  - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
-  - [Ansible (Real Life) Good Practices](https://www.reinteractive.net/posts/167-ansible-real-life-good-practices)
-  - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
-  - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
-  - [Vagrant Provisioning With Ansible](https://docs.vagrantup.com/v2/provisioning/ansible.html)
+- Tutorials and Walkthroughts
+  - [An Ansible Tutorial](https://serversforhackers.com/an-ansible-tutorial)
+  - [Automating Microsoft Azure DOcker Deployment with Ansible and Weave Net](https://www.weave.works/microsoft-azure-docker-networking-ansible-weave/) 
+  - [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto)
+  - [Mastering Ansible](https://www.udemy.com/mastering-ansible/) - Udemy course "Mastering Ansible, $19.
+  - [Provisioning Docker containers with Ansible](http://www.ibm.com/developerworks/cloud/library/cl-provision-docker-containers-ansible/index.html)
