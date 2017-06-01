@@ -10,8 +10,8 @@ A collaborative curated list of awesome Ansible resources
   - [OpenStack Administration with Ansible](https://www.packtpub.com/virtualization-and-cloud/openstack-administration-ansible)
 - Roles
   - Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
-  - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy] (https://galaxy.ansible.com/list#/roles/509)
-  - Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy] (https://galaxy.ansible.com/list#/roles/466)
+  - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy](https://galaxy.ansible.com/list#/roles/509)
+  - Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy](https://galaxy.ansible.com/list#/roles/466)
   - PostgreSQL : [Github](https://github.com/ANXS/postgresql) / [Galaxy](https://galaxy.ansible.com/list#/roles/512)
   - Redis : [Github](https://github.com/DavidWittman/ansible-redis) / [Galaxy](https://galaxy.ansible.com/detail#/role/730)
 - Playbooks
