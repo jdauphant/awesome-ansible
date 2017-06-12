@@ -36,6 +36,7 @@ A collaborative curated list of awesome Ansible resources
   - [ARA: Ansible Run Analysis](https://github.com/openstack/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
   - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
   - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
+  - [Molecule](https://github.com/metacloud/molecule) - Testing of Ansible roles
 - Resources
   - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
   - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
