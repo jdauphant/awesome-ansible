@@ -23,11 +23,11 @@ A collaborative curated list of awesome Ansible resources
   - [Heartbleed OpenSSL Patch](https://github.com/jdauphant/patch-openssl-CVE-2014-0160) - A simple playbook that update OpenSSL for Debian system
   - [OpenStack](https://github.com/openstack-ansible/openstack-ansible)
   - [Rails](https://github.com/j-mcnally/ansible-rails)
-  - [Sovereign](https://github.com/al3x/sovereign) - Your own personal cloud
+  - [Sovereign](https://github.com/sovereign/sovereign) - Your own personal cloud
   - [VPN Deploy](https://github.com/ftao/vpn-deploy-playbook)
 - Docker
-  - [Ansible Ubuntu 14.04 Docker Image](https://registry.hub.docker.com/u/ansible/ubuntu14.04-ansible/)
-  - [Ansible Centos 7 Docker Image](https://registry.hub.docker.com/u/ansible/centos7-ansible/)
+  - [Ansible Ubuntu 14.04 Docker Image](https://hub.docker.com/u/ansible/ubuntu14.04-ansible/)
+  - [Ansible Centos 7 Docker Image](https://hub.docker.com/u/ansible/centos7-ansible/)
 - Tools
   - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
   - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
@@ -40,9 +40,8 @@ A collaborative curated list of awesome Ansible resources
 - Resources
   - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
   - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
-  - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
   - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
-  - [Ansible (Real Life) Good Practices](https://www.reinteractive.net/posts/167-ansible-real-life-good-practices)
+  - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices )
   - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
   - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
-  - [Vagrant Provisioning With Ansible](https://docs.vagrantup.com/v2/provisioning/ansible.html)
+  - [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible.html)
