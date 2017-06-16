@@ -40,7 +40,6 @@ A collaborative curated list of awesome Ansible resources
 - Resources
   - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
   - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
-  - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
   - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
   - [Ansible (Real Life) Good Practices](https://www.reinteractive.net/posts/167-ansible-real-life-good-practices)
   - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
