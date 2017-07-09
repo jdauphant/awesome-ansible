@@ -12,8 +12,16 @@ A collaborative curated list of awesome Ansible resources
   - Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
   - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy](https://galaxy.ansible.com/list#/roles/509)
   - Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy](https://galaxy.ansible.com/list#/roles/466)
+  - Apache : [Github](https://github.com/debops/ansible-apache) / [Galaxy](https://galaxy.ansible.com/debops/apache/)
   - PostgreSQL : [Github](https://github.com/ANXS/postgresql) / [Galaxy](https://galaxy.ansible.com/list#/roles/512)
   - Redis : [Github](https://github.com/DavidWittman/ansible-redis) / [Galaxy](https://galaxy.ansible.com/detail#/role/730)
+  - Gitlab : [Github](https://github.com/debops/ansible-gitlab) / [Galaxy](https://galaxy.ansible.com/debops/gitlab/)
+  - NextCloud/ownCloud : [Github](https://github.com/debops/ansible-ownCloud) / [Galaxy](https://galaxy.ansible.com/debops/owncloud/)
+  - Elasticsearch : [Github](https://github.com/debops/ansible-elasticsearch) / [Galaxy](https://galaxy.ansible.com/debops/elasticsearch/)
+  - Kibana : [Github](https://github.com/debops/ansible-kibana) / [Galaxy](https://galaxy.ansible.com/debops/kibana/)
+  - sshd : [Github](https://github.com/debops/ansible-sshd) / [Galaxy](https://galaxy.ansible.com/debops/sshd/)
+  - Cryptsetup : [Github](https://github.com/debops/ansible-cryptsetup) / [Galaxy](https://galaxy.ansible.com/debops/cryptsetup/)
+  - Dropbear initramfs : [Github](https://github.com/debops-contrib/ansible-dropbear_initramfs) / [Galaxy](https://galaxy.ansible.com/debops-contrib/dropbear_initramfs/)
 - Playbooks
   - [Ansible Examples](https://github.com/ansible/ansible-examples) - This tutorial presents ansible step-by-step
   - [Ansible Desktop](https://github.com/kalos/ansible-desktop)
