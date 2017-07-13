@@ -20,6 +20,7 @@ A collaborative curated list of awesome Ansible resources
   - [Ansible Desktop](https://github.com/kalos/ansible-desktop)
   - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
   - [DebOps](https://debops.org/) - Your Debian-based data center in a box. A collection of Ansible playbooks, scalable from one container to an entire data center.
+  - [fgci-ansible](https://github.com/CSCfi/fgci-ansible) - Collection of the Finnish Grid and Cloud Infrastructure Ansible playbooks (CentOS)
   - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks) - Playbook example for FreeBSD
   - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana
   - [Heartbleed OpenSSL Patch](https://github.com/jdauphant/patch-openssl-CVE-2014-0160) - A simple playbook that update OpenSSL for Debian system
