@@ -28,8 +28,6 @@ A collaborative curated list of awesome Ansible resources
   - [Sovereign](https://github.com/sovereign/sovereign) - Your own personal cloud
   - [VPN Deploy](https://github.com/ftao/vpn-deploy-playbook)
 - Docker
-  - [Ansible Ubuntu 14.04 Docker Image](https://hub.docker.com/u/ansible/ubuntu14.04-ansible/)
-  - [Ansible Centos 7 Docker Image](https://hub.docker.com/u/ansible/centos7-ansible/)
   - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 - Tools
   - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
