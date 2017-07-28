@@ -30,6 +30,7 @@ A collaborative curated list of awesome Ansible resources
 - Docker
   - [Ansible Ubuntu 14.04 Docker Image](https://hub.docker.com/u/ansible/ubuntu14.04-ansible/)
   - [Ansible Centos 7 Docker Image](https://hub.docker.com/u/ansible/centos7-ansible/)
+  - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 - Tools
   - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
   - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
