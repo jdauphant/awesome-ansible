@@ -35,7 +35,7 @@ A collaborative curated list of awesome Ansible resources
   - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
   - [Ansible Vim](https://github.com/pearofducks/ansible-vim) - Vim syntax plugin for Ansible 2.0
   - [ARA: Ansible Run Analysis](https://github.com/openstack/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
-  - [OpsTools-ansible](https://github.com/centos-opstools/opstools-ansible) - The project opstools-ansible is to use Ansible to configure an environment that provides the support of opstools, namely centralized logging and analysis, availability monitoring, and performance monitoring.
+  - [OpsTools-ansible](https://github.com/centos-opstools/opstools-ansible) - The project opstools-ansible is to use Ansible to configure an environment that provides the support of [OpsTools](https://wiki.centos.org/SpecialInterestGroup/OpsTools), namely centralized logging and analysis, availability monitoring, and performance monitoring.
   - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
   - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
   - [Molecule](https://github.com/metacloud/molecule) - Testing of Ansible roles
