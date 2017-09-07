@@ -30,6 +30,7 @@ A collaborative curated list of awesome Ansible resources
 - Docker
   - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 - Tools
+  - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
   - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
   - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
   - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
