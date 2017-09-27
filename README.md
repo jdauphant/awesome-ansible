@@ -24,7 +24,7 @@ A collaborative curated list of awesome Ansible resources
   - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks) - Playbook example for FreeBSD
   - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana
   - [Heartbleed OpenSSL Patch](https://github.com/jdauphant/patch-openssl-CVE-2014-0160) - A simple playbook that update OpenSSL for Debian system
-  - [OpenStack](https://github.com/openstack-ansible/openstack-ansible)
+  - [OpenStack](https://github.com/openstack/openstack-ansible)
   - [Rails](https://github.com/j-mcnally/ansible-rails)
   - [Sovereign](https://github.com/sovereign/sovereign) - Your own personal cloud
   - [Streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
