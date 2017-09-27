@@ -27,6 +27,7 @@ A collaborative curated list of awesome Ansible resources
   - [OpenStack](https://github.com/openstack-ansible/openstack-ansible)
   - [Rails](https://github.com/j-mcnally/ansible-rails)
   - [Sovereign](https://github.com/sovereign/sovereign) - Your own personal cloud
+  - [Streisand](https://github.com/jlund/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
   - [VPN Deploy](https://github.com/ftao/vpn-deploy-playbook)
 - Docker
   - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
@@ -48,3 +49,4 @@ A collaborative curated list of awesome Ansible resources
   - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
   - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
   - [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible.html)
+    
