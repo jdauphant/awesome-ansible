@@ -37,6 +37,7 @@ A collaborative curated list of awesome Ansible resources
   - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
   - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
   - [Ansible Vim](https://github.com/pearofducks/ansible-vim) - Vim syntax plugin for Ansible 2.0
+  - [Ansigenome](https://github.com/nickjj/ansigenome) - Ansigenome is a command line tool designed to help you manage your Ansible roles - scan, standarize documentation and meta files, generate dependency graphs
   - [ARA: Ansible Run Analysis](https://github.com/openstack/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
   - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
   - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
