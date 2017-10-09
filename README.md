@@ -13,8 +13,10 @@ A collaborative curated list of awesome Ansible resources
 - [Resources](#resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
+---
 ## Books
+
+*Books regarding Ansible*
 
 - [Ansible Configuration Management - Second Edition](https://www.packtpub.com/networking-and-servers/ansible-configuration-management-second-edition)
 - [Ansible for DevOps](https://leanpub.com/ansible-for-devops)
@@ -25,6 +27,8 @@ A collaborative curated list of awesome Ansible resources
 
 ## Roles
 
+*Roles for Ansbile*
+
 - Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
 - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy](https://galaxy.ansible.com/list#/roles/509)
 - Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy](https://galaxy.ansible.com/list#/roles/466)
@@ -33,6 +37,8 @@ A collaborative curated list of awesome Ansible resources
 - Redis : [Github](https://github.com/DavidWittman/ansible-redis) / [Galaxy](https://galaxy.ansible.com/detail#/role/730)
 
 ## Playbooks
+
+*Playbooks for Ansible*
 
 - [Ansible Examples](https://github.com/ansible/ansible-examples) - This tutorial presents ansible step-by-step
 - [Ansible Desktop](https://github.com/kalos/ansible-desktop)
@@ -50,9 +56,13 @@ A collaborative curated list of awesome Ansible resources
 
 ## Docker
 
+*Description needed*
+
 - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 
 ## Tools
+
+*Ansible related Tools*
 
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
@@ -66,6 +76,8 @@ A collaborative curated list of awesome Ansible resources
 - [Molecule](https://github.com/metacloud/molecule) - Testing of Ansible roles
 
 ## Resources
+
+*Usefull Ansible ressources*
 
 - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
 - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
