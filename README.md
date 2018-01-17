@@ -70,7 +70,7 @@ A collaborative curated list of awesome Ansible resources
 - [Molecule](https://github.com/metacloud/molecule) - Testing of Ansible roles
 - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
 - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
-
+- [TD4A](https://github.com/cidrblock/td4a) - Template designer for automation - TD4A is a visual design aid for building and testing jinja2 templates. It will combine data in yaml format with a jinja2 template and render the output.
 ## Resources
 
 *Usefull Ansible ressources*
