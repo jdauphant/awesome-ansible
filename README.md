@@ -23,6 +23,7 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible - Up and Running](http://shop.oreilly.com/product/0636920035626.do)
 - [Learning Ansible](https://www.packtpub.com/networking-and-servers/learning-ansible)
 - [Learning Ansible 2 - Second Edition](https://www.packtpub.com/networking-and-servers/learning-ansible-2-second-edition)
+- [Mastering Ansible - Second Edition](https://www.packtpub.com/networking-and-servers/mastering-ansible-second-edition)
 - [OpenStack Administration with Ansible](https://www.packtpub.com/virtualization-and-cloud/openstack-administration-ansible)
 
 ## Roles
