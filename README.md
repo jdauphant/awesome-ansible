@@ -81,4 +81,6 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices )
 - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
 - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
+- [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen)
 - [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible.html)
+
