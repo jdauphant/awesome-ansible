@@ -73,7 +73,7 @@ A collaborative curated list of awesome Ansible resources
 - [TD4A](https://github.com/cidrblock/td4a) - Template designer for automation - TD4A is a visual design aid for building and testing jinja2 templates. It will combine data in yaml format with a jinja2 template and render the output.
 ## Resources
 
-*Usefull Ansible ressources*
+*Usefull Ansible resources*
 
 - [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
 - [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
