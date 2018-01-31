@@ -10,6 +10,7 @@ A collaborative curated list of awesome Ansible resources
 - [Playbooks](#playbooks)
 - [Tools](#tools)
 - [Resources](#resources)
+- [Videos](#videos)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 ---
@@ -86,3 +87,16 @@ A collaborative curated list of awesome Ansible resources
 - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
 - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
 - [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible.html)
+
+## Videos
+- [2013 Continuous Deployment with Ansible (Youtube) USENIX](https://www.youtube.com/watch?v=PDRdCqFp2sY)
+- [2014 Ansible Hands-On Training (Youtube) Glen Jarvis](https://www.youtube.com/watch?v=w8fOEEMqpOw)
+- [2014 Successfully automating your machines in the cloud using Ansible (Youtube) Bay Piggies](https://www.youtube.com/watch?v=ptzruazbRXY)
+- [2014 Michael DeHaan: Ansible - Python-Powered Radically Simple IT Automation - PyCon 2014  (Youtube) PyCon 2014](https://www.youtube.com/watch?v=Qi0AhK7PMCI)
+- [2014 Ansible and Docker HP (Youtube) Ansible](https://www.youtube.com/watch?v=oZ45v8AeE7k)
+- [2015 What is Ansible? A short DevOps Introduction (Youtube) Ansible](https://www.youtube.com/watch?v=xMHVvHZ-Zn4)
+- [2015 Network Automation using Ansible and Python (Youtube) Next Day Video](https://www.youtube.com/watch?v=VYEVjKvMKqU)
+- [2016 Ansible - an absolute basic overview (Youtube) Quentin Stafford-Fraser](https://www.youtube.com/watch?v=MfoAb50Br94)
+- [2016 Introduction to Ansible (Youtube) Cloud Academy](https://www.youtube.com/watch?v=iVWmbStE1MM)
+- [2016 Introduction to Ansible (Youtube) DevOps](https://www.youtube.com/watch?v=kHQUzNiKLoU)
+- [2016 Ansible Installation on Redhat (Youtube) edureka!](https://www.youtube.com/watch?v=wpIgvy34BzU)
