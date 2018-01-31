@@ -72,14 +72,16 @@ A collaborative curated list of awesome Ansible resources
 - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
 - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
 - [TD4A](https://github.com/cidrblock/td4a) - Template designer for automation - TD4A is a visual design aid for building and testing jinja2 templates. It will combine data in yaml format with a jinja2 template and render the output.
+
 ## Resources
 
 *Usefull Ansible resources*
 
-- [Ansible Galaxy](https://galaxy.ansible.com) - Hub for finding roles
-- [Ansible Quickref](https://github.com/lorin/ansible-quickref) - Quick reference to parameters and special variables
+- [Ansible Galaxy](https://galaxy.ansible.com/) - Hub for finding roles
+- [Ansible Quickref](https://github.com/lorin/ansible-quickref/) - Quick reference to parameters and special variables
 - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
-- [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices )
+- [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices/)
+- [Ansible and Ansible Tower: best practices from the field](https://www.juliosblog.com/ansible-and-ansible-tower-best-practices-from-the-field/)
 - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
 - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
 - [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible.html)
