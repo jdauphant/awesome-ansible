@@ -78,6 +78,7 @@ A collaborative curated list of awesome Ansible resources
 
 *Usefull Ansible resources*
 
+- [Programming Community Curated Resources](https://hackr.io/tutorials/learn-ansible)
 - [Ansible Galaxy](https://galaxy.ansible.com/) - Hub for finding roles
 - [Ansible Quickref](https://github.com/lorin/ansible-quickref/) - Quick reference to parameters and special variables
 - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
