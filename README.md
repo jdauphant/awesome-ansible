@@ -85,4 +85,5 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible and Ansible Tower: best practices from the field](https://www.juliosblog.com/ansible-and-ansible-tower-best-practices-from-the-field/)
 - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
 - [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
+- [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible)
 - [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible.html)
