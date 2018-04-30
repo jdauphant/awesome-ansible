@@ -68,7 +68,7 @@ A collaborative curated list of awesome Ansible resources
 - [Ansigenome](https://github.com/nickjj/ansigenome) - Ansigenome is a command line tool designed to help you manage your Ansible roles - scan, standarize documentation and meta files, generate dependency graphs
 - [ARA: Ansible Run Analysis](https://github.com/openstack/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
-- [Mitogen for Ansible](https://mitogen.readthedocs.io/en/latest/ansible.html) - Uses the [Mitogen](https://github.com/dw/mitogen/) library to execute Ansible plabooks in a more efficient (decreases an exeuction time) way.
+- [Mitogen for Ansible](https://mitogen.readthedocs.io/en/latest/ansible.html) - Uses the [Mitogen](https://github.com/dw/mitogen/) library to execute Ansible playbooks in a more efficient way (decreases the execution time).
 - [Molecule](https://github.com/metacloud/molecule) - Testing of Ansible roles.
 - [OpsTools-ansible](https://github.com/centos-opstools/opstools-ansible) - The project opstools-ansible is to use Ansible to configure an environment that provides the support of [OpsTools](https://wiki.centos.org/SpecialInterestGroup/OpsTools), namely centralized logging and analysis, availability monitoring, and performance monitoring.
 - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
