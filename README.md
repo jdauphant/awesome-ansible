@@ -28,7 +28,7 @@ A collaborative curated list of awesome Ansible resources
 
 ## Roles
 
-*Roles for Ansbile*
+*Roles for Ansible*
 
 - Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
 - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy](https://galaxy.ansible.com/list#/roles/509)
