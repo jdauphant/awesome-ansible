@@ -61,6 +61,7 @@ A collaborative curated list of awesome Ansible resources
 
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
 - [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) - creates a dot file suitable for use by [graphviz](http://www.graphviz.org/)
+- [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) - create a graph representing your Ansible playbook tasks and roles. Inspired by [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher).
 - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
 - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
 - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
