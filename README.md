@@ -77,7 +77,7 @@ A collaborative curated list of awesome Ansible resources
 
 ## Resources
 
-*Usefull Ansible resources*
+*Useful Ansible resources*
 
 - [Ansible Galaxy](https://galaxy.ansible.com/) - Hub for finding roles
 - [Ansible Quickref](https://github.com/lorin/ansible-quickref/) - Quick reference to parameters and special variables
