@@ -45,7 +45,7 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible Desktop](https://github.com/kalos/ansible-desktop)
 - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
 - [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples)
-- [DebOps](https://debops.org/) - Your Debian-based data center in a box. A collection of Ansible playbooks, scalable from one container to an entire data center.
+- [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A collection of Ansible playbooks, scalable from one container to an entire data center.
 - [fgci-ansible](https://github.com/CSCfi/fgci-ansible) - Collection of the Finnish Grid and Cloud Infrastructure Ansible playbooks (CentOS)
 - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks) - Playbook example for FreeBSD
 - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana
