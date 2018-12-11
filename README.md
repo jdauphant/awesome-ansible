@@ -82,7 +82,7 @@ A collaborative curated list of awesome Ansible resources
 *Useful Ansible resources*
 
 - [Ansible Galaxy](https://galaxy.ansible.com/) - Hub for finding roles
-- [Ansible User Guide](https://docs.ansible.com/ansible/latest/index.html), including [Best Practices](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)
+- [Ansible User Guide](https://docs.ansible.com/ansible/latest/index.html), including [Best Practices](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html) and [Conventions, tips, and pitfalls](https://docs.ansible.com/ansible/latest/dev_guide/developing_modules_best_practices.html)
 - [Ansible Quickref](https://github.com/lorin/ansible-quickref/) - Quick reference to parameters and special variables
 - [Ansible vs Chef](https://tjheeta.github.io/2015/04/15/ansible-vs-chef/)
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices/)
