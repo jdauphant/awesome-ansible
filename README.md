@@ -45,7 +45,7 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible Desktop](https://github.com/kalos/ansible-desktop)
 - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
 - [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples)
-- [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A collection of Ansible playbooks, scalable from one container to an entire data center.
+- [DebOps](https://docs.debops.org/en/master/ ) - Your Debian-based data center in a box. A collection of Ansible playbooks, scalable from one container to an entire data center.
 - [fgci-ansible](https://github.com/CSCfi/fgci-ansible) - Collection of the Finnish Grid and Cloud Infrastructure Ansible playbooks (CentOS)
 - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks) - Playbook example for FreeBSD
 - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana
@@ -63,7 +63,7 @@ A collaborative curated list of awesome Ansible resources
 
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information
 - [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) - creates a dot file suitable for use by [graphviz](http://www.graphviz.org/)
-- [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
+- [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
 - [Ansible Shell](https://github.com/dominis/ansible-shell) - Interactive shell for Ansible with built-in tab completion for all the modules
 - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 - [Ansible Vim](https://github.com/pearofducks/ansible-vim) - Vim syntax plugin for Ansible 2.0
@@ -71,7 +71,7 @@ A collaborative curated list of awesome Ansible resources
 - [ARA: Ansible Run Analysis](https://github.com/openstack/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
 - [Mitogen for Ansible](https://mitogen.readthedocs.io/en/latest/ansible.html) - Uses the [Mitogen](https://github.com/dw/mitogen/) library to execute Ansible playbooks in a more efficient way (decreases the execution time).
-- [Molecule](https://github.com/metacloud/molecule) - Testing of Ansible roles.
+- [Molecule](https://github.com/ansible/molecule) - Testing of Ansible roles.
 - [OpsTools-ansible](https://github.com/centos-opstools/opstools-ansible) - The project opstools-ansible is to use Ansible to configure an environment that provides the support of [OpsTools](https://wiki.centos.org/SpecialInterestGroup/OpsTools), namely centralized logging and analysis, availability monitoring, and performance monitoring.
 - [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments
 - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower
