@@ -1,4 +1,5 @@
-# Awesome Ansible
+# Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A collaborative curated list of awesome Ansible resources
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
