@@ -1,4 +1,4 @@
-# awesome-ansible
+# Awesome Ansible
 A collaborative curated list of awesome Ansible resources
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
