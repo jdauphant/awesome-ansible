@@ -1,4 +1,4 @@
-# Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A collaborative curated list of awesome Ansible resources
 
