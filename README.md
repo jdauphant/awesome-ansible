@@ -62,7 +62,7 @@ A collaborative curated list of awesome Ansible resources
 
 *Ansible related Tools*
 
-- [Ansible-beatify](https://github.com/Courouge/ansible-beautify) - Transform One-liner Ansible syntax to YAML multiline syntax
+- [Ansible-beautify](https://github.com/Courouge/ansible-beautify) - Transform One-liner Ansible syntax to YAML multiline syntax
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information.
 - [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) - creates a dot file suitable for use by [graphviz](http://www.graphviz.org/).
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved.
