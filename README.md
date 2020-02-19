@@ -47,7 +47,7 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
 - [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples)
 - [DebOps](https://docs.debops.org/en/master/ ) - Your Debian-based data center in a box. A collection of Ansible playbooks, scalable from one container to an entire data center.
-- [fgci-ansible](https://github.com/CSCfi/fgci-ansible) - Collection of the Finnish Grid and Cloud Infrastructure Ansible playbooks (CentOS).
+- [fgci-ansible](https://github.com/fgci-org/fgci-ansible) - Collection of the Finnish Grid and Cloud Infrastructure Ansible playbooks (CentOS).
 - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks) - Playbook example for FreeBSD.
 - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana.
 - [Heartbleed OpenSSL Patch](https://github.com/jdauphant/patch-openssl-CVE-2014-0160) - A simple playbook that update OpenSSL for Debian system.
@@ -70,13 +70,13 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 - [Ansible Vim](https://github.com/pearofducks/ansible-vim) - Vim syntax plugin for Ansible 2.0.
 - [Ansigenome](https://github.com/nickjj/ansigenome) - Ansigenome is a command line tool designed to help you manage your Ansible roles - scan, standarize documentation and meta files, generate dependency graphs.
-- [ARA: Ansible Run Analysis](https://github.com/openstack/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
+- [ARA: Ansible Run Analysis](https://github.com/ansible-community/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
 - [Mitogen for Ansible](https://mitogen.readthedocs.io/en/latest/ansible.html) - Uses the [Mitogen](https://github.com/dw/mitogen/) library to execute Ansible playbooks in a more efficient way (decreases the execution time).
-- [Molecule](https://github.com/ansible/molecule) - Testing of Ansible roles.
+- [Molecule](https://github.com/ansible-community/molecule) - Testing of Ansible roles.
 - [Nanvault](https://github.com/marcobellaccini/nanvault) - A standalone tool to encrypt and decrypt files in the Ansible Vault format, featuring UNIX-style composability.
 - [OpsTools-ansible](https://github.com/centos-opstools/opstools-ansible) - The project opstools-ansible is to use Ansible to configure an environment that provides the support of [OpsTools](https://wiki.centos.org/SpecialInterestGroup/OpsTools), namely centralized logging and analysis, availability monitoring, and performance monitoring.
-- [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments.
+- [Phansible](https://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments.
 - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower.
 - [TD4A](https://github.com/cidrblock/td4a) - Template designer for automation - TD4A is a visual design aid for building and testing jinja2 templates. It will combine data in yaml format with a jinja2 template and render the output.
 
@@ -91,5 +91,5 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices/)
 - [Ansible and Ansible Tower: best practices from the field](https://www.juliosblog.com/ansible-and-ansible-tower-best-practices-from-the-field/)
 - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
-- [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
+- [Packer Provisioning with Ansible](https://packer.io/docs/provisioners/ansible-local.html)
 - [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible.html)
