@@ -1,4 +1,6 @@
-# Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Ansible
+
+## @jdauphant : I don't have time to manage anymore this repository. Don't hesitate to fork and made your own version.
 
 A collaborative curated list of awesome Ansible resources
 
