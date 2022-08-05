@@ -91,5 +91,5 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices/)
 - [Ansible and Ansible Tower: best practices from the field](https://www.juliosblog.com/ansible-and-ansible-tower-best-practices-from-the-field/)
 - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
-- [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local)
+- [Packer Provisioning with Ansible](https://www.packer.io/plugins/provisioners/ansible/ansible-local)
 - [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible)
