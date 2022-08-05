@@ -58,6 +58,7 @@ A collaborative curated list of awesome Ansible resources
 - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 - [VPN Deploy](https://github.com/ftao/vpn-deploy-playbook)
+- [Algo VPN](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Tools
 
