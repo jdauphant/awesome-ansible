@@ -59,7 +59,6 @@ A collaborative curated list of awesome Ansible resources
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 - [VPN Deploy](https://github.com/ftao/vpn-deploy-playbook)
 - [Algo VPN](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
-- [Fedora Infrastructure](https://infrastructure.fedoraproject.org/cgit/ansible.git/tree/) - Ansible playbook/files/etc repository for Fedora infrastructure.
 
 ## Tools
 
