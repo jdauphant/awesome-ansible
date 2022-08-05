@@ -18,14 +18,14 @@ A collaborative curated list of awesome Ansible resources
 
 *Books regarding Ansible*
 
-- [Ansible Configuration Management - Second Edition](https://www.packtpub.com/networking-and-servers/ansible-configuration-management-second-edition)
+- [Ansible Configuration Management - Second Edition](https://www.packtpub.com/product/ansible-configuration-management-second-edition/9781785282300 )
 - [Ansible for DevOps](https://www.ansiblefordevops.com)
-- [Ansible Playbook Essentials](https://www.packtpub.com/networking-and-servers/ansible-playbook-essentials)
-- [Ansible - Up and Running](http://shop.oreilly.com/product/0636920035626.do)
-- [Learning Ansible](https://www.packtpub.com/networking-and-servers/learning-ansible)
-- [Learning Ansible 2 - Second Edition](https://www.packtpub.com/networking-and-servers/learning-ansible-2-second-edition)
-- [Mastering Ansible - Second Edition](https://www.packtpub.com/networking-and-servers/mastering-ansible-second-edition)
-- [OpenStack Administration with Ansible](https://www.packtpub.com/virtualization-and-cloud/openstack-administration-ansible)
+- [Ansible Playbook Essentials](https://www.packtpub.com/product/ansible-playbook-essentials/9781784398293)
+- [Ansible - Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491915318/)
+- [Learning Ansible](https://www.packtpub.com/product/learning-ansible/9781783550630 )
+- [Learning Ansible 2 - Second Edition](https://www.packtpub.com/product/learning-ansible-2-second-edition/9781786464231)
+- [Mastering Ansible - Second Edition](https://www.packtpub.com/product/mastering-ansible-second-edition/9781787125681)
+- [OpenStack Administration with Ansible](https://www.packtpub.com/product/openstack-administration-with-ansible/9781785884610)
 
 ## Roles
 
@@ -34,7 +34,7 @@ A collaborative curated list of awesome Ansible resources
 - Java : [Github](https://github.com/silpion/ansible-java) / [Galaxy](https://galaxy.ansible.com/list#/roles/457)
 - MySQL : [Github](https://github.com/ANXS/mysql) / [Galaxy](https://galaxy.ansible.com/list#/roles/509)
 - Nginx : [Github](https://github.com/jdauphant/ansible-role-nginx) / [Galaxy](https://galaxy.ansible.com/list#/roles/466)
-- os-hardening : [Github](https://github.com/dev-sec/ansible-os-hardening) / [Galaxy](https://galaxy.ansible.com/dev-sec/os-hardening/)
+- os-hardening : [Github](https://github.com/dev-sec/ansible-collection-hardening ) / [Galaxy](https://galaxy.ansible.com/devsec/hardening)
 - PostgreSQL : [Github](https://github.com/ANXS/postgresql) / [Galaxy](https://galaxy.ansible.com/list#/roles/512)
 - Redis : [Github](https://github.com/DavidWittman/ansible-redis) / [Galaxy](https://galaxy.ansible.com/detail#/role/730)
 
@@ -47,7 +47,7 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible Tutorial](https://github.com/leucos/ansible-tuto)
 - [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples)
 - [DebOps](https://docs.debops.org/en/master/ ) - Your Debian-based data center in a box. A collection of Ansible playbooks, scalable from one container to an entire data center.
-- [fgci-ansible](https://github.com/CSCfi/fgci-ansible) - Collection of the Finnish Grid and Cloud Infrastructure Ansible playbooks (CentOS).
+- [fgci-ansible](https://github.com/fgci-org/fgci-ansible) - Collection of the Finnish Grid and Cloud Infrastructure Ansible playbooks (CentOS).
 - [FreeBSD](https://github.com/jdauphant/ansible-freebsd-playbooks) - Playbook example for FreeBSD.
 - [Hadoop](https://github.com/analytically/hadoop-ansible) - Ansible playbook that installs a Hadoop cluster, with HBase, Hive, Presto for analytics, and Ganglia, Smokeping, Fluentd, Elasticsearch and Kibana.
 - [Heartbleed OpenSSL Patch](https://github.com/jdauphant/patch-openssl-CVE-2014-0160) - A simple playbook that update OpenSSL for Debian system.
@@ -71,12 +71,12 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 - [Ansible Vim](https://github.com/pearofducks/ansible-vim) - Vim syntax plugin for Ansible 2.0.
 - [Ansigenome](https://github.com/nickjj/ansigenome) - Ansigenome is a command line tool designed to help you manage your Ansible roles - scan, standarize documentation and meta files, generate dependency graphs.
-- [ARA: Ansible Run Analysis](https://github.com/openstack/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
+- [ARA: Ansible Run Analysis](https://github.com/ansible-community/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
-- [Mitogen for Ansible](https://mitogen.readthedocs.io/en/latest/ansible.html) - Uses the [Mitogen](https://github.com/dw/mitogen/) library to execute Ansible playbooks in a more efficient way (decreases the execution time).
-- [Molecule](https://github.com/ansible/molecule) - Testing of Ansible roles.
+- [Mitogen for Ansible](https://mitogen.readthedocs.io/en/latest/ansible.html) - Uses the [Mitogen](https://github.com/mitogen-hq/mitogen) library to execute Ansible playbooks in a more efficient way (decreases the execution time).
+- [Molecule](https://github.com/ansible-community/molecule) - Testing of Ansible roles.
 - [OpsTools-ansible](https://github.com/centos-opstools/opstools-ansible) - The project opstools-ansible is to use Ansible to configure an environment that provides the support of [OpsTools](https://wiki.centos.org/SpecialInterestGroup/OpsTools), namely centralized logging and analysis, availability monitoring, and performance monitoring.
-- [Phansible](http://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments.
+- [Phansible](https://phansible.com/) : [Github](https://github.com/phansible/phansible) - Simple generator for Vagrant projects, targeting PHP development environments.
 - [Semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source Alternative to Ansible Tower.
 - [TD4A](https://github.com/cidrblock/td4a) - Template designer for automation - TD4A is a visual design aid for building and testing jinja2 templates. It will combine data in yaml format with a jinja2 template and render the output.
 
@@ -91,5 +91,5 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices/)
 - [Ansible and Ansible Tower: best practices from the field](https://www.juliosblog.com/ansible-and-ansible-tower-best-practices-from-the-field/)
 - [Management of FreeBSD jails through Ansible](https://www.keltia.net/howtos/jail-mgmt-with-ansible/)
-- [Packer Provisioning with Ansible](https://www.packer.io/docs/provisioners/ansible-local.html)
-- [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible.html)
+- [Packer Provisioning with Ansible](https://www.packer.io/plugins/provisioners/ansible/ansible-local)
+- [Vagrant Provisioning With Ansible](https://www.vagrantup.com/docs/provisioning/ansible)
