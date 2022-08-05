@@ -1,7 +1,5 @@
 # Awesome Ansible
 
-## @jdauphant : I don't have time to manage anymore this repository. Don't hesitate to fork and made your own version.
-
 A collaborative curated list of awesome Ansible resources
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
