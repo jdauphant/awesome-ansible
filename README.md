@@ -18,14 +18,14 @@ A collaborative curated list of awesome Ansible resources
 
 *Books regarding Ansible*
 
-- [Ansible Configuration Management - Second Edition](https://www.packtpub.com/product/ansible-configuration-management-second-edition/9781785282300 )
 - [Ansible for DevOps](https://www.ansiblefordevops.com)
 - [Ansible Playbook Essentials](https://www.packtpub.com/product/ansible-playbook-essentials/9781784398293)
 - [Ansible - Up and Running](https://www.oreilly.com/library/view/ansible-up-and/9781491915318/)
-- [Learning Ansible](https://www.packtpub.com/product/learning-ansible/9781783550630 )
+- [Learn Ansible](https://www.packtpub.com/product/learn-ansible/9781788998758)
 - [Learning Ansible 2 - Second Edition](https://www.packtpub.com/product/learning-ansible-2-second-edition/9781786464231)
 - [Mastering Ansible - Second Edition](https://www.packtpub.com/product/mastering-ansible-second-edition/9781787125681)
 - [OpenStack Administration with Ansible](https://www.packtpub.com/product/openstack-administration-with-ansible/9781785884610)
+- [Practical Ansible 2](https://www.packtpub.com/product/practical-ansible-2/9781789807462)
 
 ## Roles
 
