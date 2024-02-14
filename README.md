@@ -64,6 +64,7 @@ A collaborative curated list of awesome Ansible resources
 
 *Ansible related Tools*
 
+- [aar-doc - Automated Ansible Role Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML overview page containing system configuration information.
 - [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) - creates a dot file suitable for use by [graphviz](http://www.graphviz.org/).
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved.
