@@ -71,6 +71,7 @@ A collaborative curated list of awesome Ansible resources
 - [Ansible Silo](https://github.com/groupon/ansible-silo) - Ansible in a self-contained environment via Docker.
 - [Ansible Vim](https://github.com/pearofducks/ansible-vim) - Vim syntax plugin for Ansible 2.0.
 - [Ansigenome](https://github.com/nickjj/ansigenome) - Ansigenome is a command line tool designed to help you manage your Ansible roles - scan, standarize documentation and meta files, generate dependency graphs.
+- [Antsichaut](https://github.com/ansible-community/antsichaut) - automate the filling of a changelog.yaml used by antsibull-changelog. 
 - [ARA: Ansible Run Analysis](https://github.com/ansible-community/ara) - Records Ansible Playbook runs seamlessly to make them easier to visualize, understand and troubleshoot. It integrates with Ansible wherever you run it.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
 - [Mitogen for Ansible](https://mitogen.readthedocs.io/en/latest/ansible.html) - Uses the [Mitogen](https://github.com/mitogen-hq/mitogen) library to execute Ansible playbooks in a more efficient way (decreases the execution time).
